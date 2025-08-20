@@ -1,5 +1,5 @@
 # 🧪 Teste Técnico - Quality Assurance Full Stack
-## 🧠 Resumo
+**🧠 Resumo**
 
 O objetivo deste desafio é testar suas habilidades na garantia de qualidade. Ele é composto por vários blocos, alguns **obrigatórios** e outros *opcionais* que nos ajudarão a identificar o seu nível de expertise em cada área avaliada.
 
@@ -7,16 +7,14 @@ Os blocos são diferentes entre si e foram elaborados para testar habilidades di
 
 ## 📑 Sumário
 
-- [Bloco 1](#bloco-1–analise-de-requisitos-(obrigatorio))
-- [Bloco 2](#bloco-2)
-- [Bloco 3](#bloco-3)
-- [Bloco 4](#bloco-4)
-- [Bloco Bônus](#bloco-bonus)
+- [Bloco 1 | Análise de Requisitos](#bloco-1–analise-de-requisitos-(obrigatorio))
+- [Bloco 2 | Execução de Testes](#bloco-2-execucao-de-testes-(opcional))
+- [Bloco 3 | Report de Bugs](#bloco-3-report-de-bugs-(opcional))
+- [Bloco 4 | Proatividade em Processos](#bloco-4-proatividade-em-processos-(obrigatorio))
+- [Bloco Bônus | Mini desafio](#bloco-bonus-mini-desafio-(opcional))
 - [Entrega](#entrega)
 - [Critérios de Avaliação](#critérios-de-avaliação)
 - [Dúvidas](#dúvidas)
-
----
 
 ## 📌 Objetivos
 
