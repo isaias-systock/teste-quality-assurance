@@ -1,14 +1,13 @@
-## 🧪 Teste Técnico - Quality Assurance Full Stack
-
-### 🧠 Resumo
+# 🧪 Teste Técnico - Quality Assurance Full Stack
+## 🧠 Resumo
 
 O objetivo deste desafio é testar suas habilidades na garantia de qualidade. Ele é composto por vários blocos, alguns **obrigatórios** e outros *opcionais* que nos ajudarão a identificar o seu nível de expertise em cada área avaliada.
 
 Os blocos são diferentes entre si e foram elaborados para testar habilidades distintas, contribuindo para elevar o nível das nossas entregas e soluções.
 
-### 📑 Sumário
+## 📑 Sumário
 
-- [Bloco 1](#bloco-1)
+- [Bloco 1](#bloco-1–analise-de-requisitos-(obrigatorio))
 - [Bloco 2](#bloco-2)
 - [Bloco 3](#bloco-3)
 - [Bloco 4](#bloco-4)
@@ -16,9 +15,10 @@ Os blocos são diferentes entre si e foram elaborados para testar habilidades di
 - [Entrega](#entrega)
 - [Critérios de Avaliação](#critérios-de-avaliação)
 - [Dúvidas](#dúvidas)
+
 ---
 
-### 📌 Objetivos
+## 📌 Objetivos
 
 - Avaliar habilidades técnicas em testes manuais e/ou automatizados.
 - Medir sua capacidade de análise de requisitos e criação de casos de teste.
@@ -27,7 +27,7 @@ Os blocos são diferentes entre si e foram elaborados para testar habilidades di
 
 ---
 
-#### Bloco 1 – Análise de Requisitos (obrigatório)
+### 1️⃣ Bloco 1 – Análise de Requisitos (obrigatório)
 Objetivo: medir sua capacidade de interpretar especificações e identificar cenários de teste.
 
 História de Usuário — Compra de Produto com Análise
@@ -75,19 +75,19 @@ Liste casos de teste cobrindo:
 - Riscos e sugestões: liste riscos percebidos (ex.: fraudes de desconto, arredondamento) e proponha melhorias.
 - Dúvidas/Assunções: escreva perguntas que faria ao PO/Tech Lead e as suposições adotadas.
 
-#### Bloco 2 – Execução de Testes (opcional)
+### 2️⃣ Bloco 2 – Execução de Testes (opcional)
 Objetivo: avaliar atenção a detalhes e raciocínio crítico.
 Exemplo de exercício:
 
-Disponibilizar um ambiente de teste simples ou protótipo (pode ser um link de staging ou uma aplicação fictícia).
+Esta é uma plataforma simples para o cadastro de um usuário: https://userinyerface.com/. Realize um cadastro e documente sua trajetória, seja ela de sucesso e a de fracasso:
 
-Pedir que o candidato execute os testes e registre:
+Tente executar testes e registrar:
 - Passos para reprodução
 - Resultado esperado
 - Resultado obtido
 - Evidências (prints, vídeos, logs)
 
-#### Bloco 3 – Report de Bugs (opcional)
+### 3️⃣ Bloco 3 – Report de Bugs (opcional)
 Objetivo: avaliar clareza e objetividade na comunicação.
 Exemplo de exercício:
 
@@ -96,7 +96,7 @@ Em um determinado processo de testes manuais, você encontra-se com o seguinte b
 
 Quais processos, documentos ou alertas você faria? para quem o faria?
 
-#### Bloco 4 – Proatividade em Processos (obrigatório)
+### 4️⃣ Bloco 4 – Proatividade em Processos (obrigatório)
 Objetivo: entender como você cria e melhora fluxos de QA.
 
 “A empresa não possui processo formal de QA. Hoje, as entregas vão direto do dev para produção.”
@@ -108,7 +108,7 @@ Como você estruturaria o fluxo de QA na empresa?:
 - Métricas que acompanharia
 - Como lidaria com versionamento e automação no futuro
 
-#### Bloco bônus - Mini desafio (opcional)
+### ✨ Bloco bônus - Mini desafio (opcional)
 objetivo: testar suas habilidades em alguma linguagem/ferramenta
 
 Implemente uma folha de testes, usando alguma linguagem de programação ou ferramenta. A ideia é testar os 4 processos gerais de um pedido de compras:
